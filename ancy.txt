@@ -1,0 +1,2 @@
+name|age|school|class
+ancy|30 |aux   |3
